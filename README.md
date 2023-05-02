@@ -12,4 +12,4 @@ IP address 192.168.0.250 is a private IP address used for local networks
 - (192.168.0) represents the network
 - (250) represents the specific device on the network
 
-- Used to specify IP address of targetted device eto be scanned for open ports
+- Used to specify IP address of targetted device to be scanned for open ports
